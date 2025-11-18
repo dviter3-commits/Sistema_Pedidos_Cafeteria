@@ -23,22 +23,13 @@ Se usa en proyectos de software porque permite documentar repositorios de forma 
 2. Paso dos
 3. Paso tres
 
-| ID  | Descripción              | Estado       |
-|-----|--------------------------|--------------|
-| 01  | Instalación del sistema  | Completado   |
-| 02  | Configuración inicial    | En progreso  |
-| 03  | Pruebas                  | Pendiente    |
+| ID  | Descripción             | Estado       |
+|-----|-------------------------|--------------|
+| 01  | Instalación del sistema | Completado   |
+| 02  | Configuración inicial   | En progreso  |
+| 03  | Pruebas                 | Pendiente    |
+
 
 [Visitar GitHub](https://github.com)
 
-
----
-
-Si quieres, también puedo generarte:
-
-✔️ una versión **README.md** con este contenido  
-✔️ una versión en **PDF o Word**  
-✔️ una versión ampliada para usar como tarea  
-
-Solo dime 💛
 
