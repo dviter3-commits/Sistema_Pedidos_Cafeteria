@@ -1,21 +1,44 @@
-Documentación en Markdown
-¿Qué es Markdown y por qué se utiliza en proyectos de software?
-Markdown es un lenguaje de marcado ligero diseñado para crear textos con formato utilizando solo caracteres de texto plano. Se usa en proyectos de software porque permite documentar repositorios de forma clara, ordenada y compatible con plataformas como GitHub.
-Ejemplo práctico de uso de Markdown
-1. Encabezados
-# Encabezado de nivel 1 ## Encabezado de nivel 2 ### Encabezado de nivel 3
-2. Listas
+# Documentación en Markdown
+
+## ¿Qué es Markdown y por qué se utiliza en proyectos de software?
+
+Markdown es un lenguaje de marcado ligero diseñado para crear textos con formato utilizando solo caracteres de texto plano.  
+Se usa en proyectos de software porque permite documentar repositorios de forma clara, ordenada y compatible con plataformas como GitHub.
+
+---
+
+## Ejemplo práctico de uso de Markdown
+
+### 1. Encabezados
+```markdown
+# Encabezado de nivel 1
+## Encabezado de nivel 2
+### Encabezado de nivel 3
+
 - Primer elemento
-- Segundo elemento - Tercer elemento
-1. Paso uno 2. Paso dos 3. Paso tres
-3. Tablas
-| ID | Descripción | Estado | |----|-------------|--------|
-| 01 | Instalación del sistema | Completado | | 02 | Configuración inicial | En progreso |
-| 03 | Pruebas | Pendiente |
-4. Enlaces
+- Segundo elemento
+- Tercer elemento
+
+1. Paso uno
+2. Paso dos
+3. Paso tres
+
+| ID  | Descripción              | Estado       |
+|-----|--------------------------|--------------|
+| 01  | Instalación del sistema  | Completado   |
+| 02  | Configuración inicial    | En progreso  |
+| 03  | Pruebas                  | Pendiente    |
+
 [Visitar GitHub](https://github.com)
-Ventajas de utilizar Markdown en combinación con GitHub
-- Documentación integrada al repositorio.
-- Excelente visualización automática.
-- Compatible con control de versiones.
-- Facilita la colaboración entre desarrolladores. - Ligero y portable.
+
+
+---
+
+Si quieres, también puedo generarte:
+
+✔️ una versión **README.md** con este contenido  
+✔️ una versión en **PDF o Word**  
+✔️ una versión ampliada para usar como tarea  
+
+Solo dime 💛
+
